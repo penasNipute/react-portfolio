@@ -23,28 +23,9 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+              <p>Strong preference for easy to use, intuitive UX/UI. </p>
             </li>
             
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-             <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
           </ul>
         </article>
         {/* END OF UI/UX */}
@@ -59,27 +40,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-             <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+              <p>My layouts will work on any device, big or small. </p>
             </li>
           </ul>
         </article>
@@ -95,27 +56,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-            
-             <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+              <p>Fast load times and lag free interaction, my highest priority. </p>
             </li>
           </ul>
         </article>
