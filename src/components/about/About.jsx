@@ -29,24 +29,28 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about_icon' />
               <h5>Expirience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             
              <article className='about__card'>
               <FiUsers className='about_icon' />
               <h5>Clients</h5>
-              <small>2+ Woldwide</small>
+              <small>0+ Woldwide</small>
             </article> 
             
             <article className='about__card'>
               <VscFolderLibrary className='about_icon' />
               <h5>Projects</h5>
-              <small>80+ Complited </small>
+              <small>10+ Completed </small>
             </article>
           </div>
         
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quas obcaecati sint libero itaque labore, debitis consequatur error, in saepe cumque odio nesciunt eveniet nisi et consectetur fugiat inventore molestias.
+            
+            🔭 I’m currently working on self-employed explainer of general education
+            🌱 I’m currently learning HTML, CSS, Javascript (React and NodeJS)... and finishing degree in mathematics
+            🤔 I’m looking for learning new technologies and working on new projects
+            📫 How to reach me: penaswild@gmail.com/ +258 84 2340 980/ +258 83 3071 728
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

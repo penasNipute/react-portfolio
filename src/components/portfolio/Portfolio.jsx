@@ -11,44 +11,44 @@ const data = [
   {
     id:1,
     image:IMG1,
-    title:'Orion UI kit - Charts templates & infographics',
-    github: 'https://github.com/penasNipute',
-    demo:'https://dribbble.com/shots/17393884-Orion-UI-kit-Charts-templates-infographics-in-Figma/attachments/12518740?mode=media'
+    title:'Web site with dropdown menu  (Responsive)',
+    github: 'https://github.com/penasNipute/intro-section-with-dropdown-navigation-main',
+    demo:'https://penasnipute.github.io/intro-section-with-dropdown-navigation-main/'
   },
   {
     id:2,
     image:IMG2,
-    title:'Eclipse - Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com/penasNipute',
-    demo:'https://dribbble.com/shots/17238644-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps/attachments/12344216?mode=media'
+    title:'Product Preview Card Component  (Responsive)', 
+    github: 'https://github.com/penasNipute/product-preview-card-component-main',
+    demo:'https://penasnipute.github.io/product-preview-card-component-main/'
   },
   {
     id:3,
     image:IMG3,
-    title:'Futuristic dashboards to visualize your data',
-    github: 'https://github.com/penasNipute',
-    demo:'https://dribbble.com/shots/17096624-Futuristic-dashboards-to-visualize-your-data/attachments/12188738?mode=media'
+    title:'Loja de Carros  (Responsive)',
+    github: 'https://github.com/penasNipute/projecto1/',
+    demo:'https://penasnipute.github.io/projecto1/'
   },
   {
     id:4,
     image:IMG4,
-    title:'High-quality dashboard templates for startups',
-    github: 'https://github.com/penasNipute',
-    demo:'https://dribbble.com/shots/17096643-High-quality-dashboard-templates-for-startups/attachments/12188761?mode=media'
+    title:'Rocket Blog',
+    github: 'https://github.com/penasNipute/rocketblog',
+    demo:'https://rocketblog.pages.dev/'
   },
   {
     id:5,
     image:IMG5,
-    title:'Service templates for video streaming',
-    github: 'https://github.com/penasNipute',
-    demo:'https://dribbble.com/shots/16955838-Service-templates-for-video-streaming/attachments/12029587?mode=media'
+    title:'Rocket Shoes',
+    github: 'https://github.com/penasNipute/rockeatshoes',
+    demo:'https://penasnipute.github.io/RockeatShoes/'
   },
   {
     id:6,
     image:IMG6,
-    title:'Game streaming templates',
-    github: 'https://github.com/penasNipute',
-    demo:'https://dribbble.com/shots/16811926-Game-streaming-templates/attachments/11867417?mode=media'
+    title:'CountDown (Responsive)',
+    github: 'https://github.com/penasNipute/devchallenge',
+    demo:'https://penasnipute.github.io/DevChallenge/'
   }
 ]
 
